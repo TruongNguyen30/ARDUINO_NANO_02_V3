@@ -1,6 +1,19 @@
 # ARDUINO_NANO_02_V3
 This is a custom-designed PCB implementation of the classic Arduino Nano V3.0.  
 
+## Sponsorship
+This project is kindly sponsored by **PCBWay**. 
+They provided high-quality PCB manufacturing services for this prototype.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/PCBWay_logo_600.png)](https://www.pcbway.com/)
+
+If you are looking for professional PCB prototyping, check them out at [PCBWay.com](https://www.pcbway.com/).
+
+![z7434282018191_d3f0273a1f3ee95fbcaeeaf8efc73f7f](https://github.com/user-attachments/assets/15003623-3b07-4c60-9977-d10db0cabd82)
+
+![z7434281998791_0190f507708a3bf3633cbbcf421b314a](https://github.com/user-attachments/assets/09651cee-b25a-4a78-809f-b83c79eecdba)
+
+
 ## Key Features
 * **Microcontroller:** ATmega328P (TQFP package).
 * **Compatibility:** 100% pin-compatible with standard Arduino Nano, perfectly fits on breadboards.
